@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Space Journey, have the solar system and ... my cats going around, exploring the said planets (including Dwarft Pluto as an easter egg...?)
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+N/A as of now!
 
 ## Do you have any questions of your own?
 
-TODO
+As of now, no!
